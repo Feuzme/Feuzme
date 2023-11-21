@@ -1,15 +1,12 @@
 - 👋 Hi, I’m @Feuzme
-- 👀 I’m started programming since 4 years now, I get a degree in software development (BTS SNIR) in 2020 in France.
-- 🌱 I'm currently programming an app to create personalized character sheet for table top rpg, 
-we would like to add a social component to this app so people can meet each others to play.
+- 👀 I’m started programming since 6 years now, I get a degree in software development (BTS SNIR) in 2020 in France.
+- 🌱 I'm currently working for ADEO, creating apps for their pricing experience
 - 📫 How to reach me feuzme@gmail.com, or on twitter @Feuzme
 - Languages / Frameworks: 
   - C++
   - Java JEE
   - Typescript
-  - php
   - Springboot
-  - Angular
   - Android
 
 <!---
